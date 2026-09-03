@@ -1,17 +1,25 @@
 ---
 type: person
-role: 
-started: 
+role: Full-stack/Web Engineer - Spend Management; informal team technical reference
+started: 2026-03-01
 cadence: bi-weekly
 ---
 # Sam Padilla
 
+## Personal details
+
+**Location:** Guatemala  
+**Time in company:**  1 year
+**Age:**  ~26
+**Marital status:**  Single
+**Kids:**  No
+
 ## Standing context
 
-**What they want next:** (role, skill, scope — in their words, dated)  
-**What I'm coaching on:**  
-**What they're great at:** (say this out loud more often than feels necessary)  
-**Watch-outs:** (burnout signals, friction with others, things they've asked me not to forget)
+**What they want next:** Explicitly wants to stay an IC, not move into TL/management; raised a salary increase tied to results now that his contract cycle is done.  
+**What I'm coaching on:** Getting closer to the product/business side - understanding the "why" behind a flow, not just the technical ask, is his own stated growth area; working with Sebas to break work into small, groomed initiatives instead of full portals, to surface bottlenecks earlier.  
+**What they're great at:** Has become the team's technical reference point - mobile's questions to him are now precise instead of basic, a sign the team matured under his informal guidance; flexible, takes on frontend, support, or onboarding-guide work depending on where it's needed; a sharp, constructive critic of how QA is decoupled from dev today.  
+**Watch-outs:** Flags QA's disconnection from daily development as a bottleneck that will worsen as the team grows - don't let this go unaddressed; salary conversation is open, tied to delivered results.
 
 ## Open with them
 

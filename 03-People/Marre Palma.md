@@ -6,6 +6,14 @@ cadence: bi-weekly
 ---
 # Marre Palma
 
+## Personal details
+
+**Location:**  
+**Time in company:**  
+**Age:**  
+**Marital status:**  
+**Kids:**  
+
 ## Standing context
 
 **What they want next:** (role, skill, scope — in their words, dated)  

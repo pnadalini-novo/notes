@@ -29,9 +29,11 @@ If you find yourself copying ticket titles into Obsidian, stop. Link the ticket 
 04-Me/
    Commitments.md          Dashboard: everything you owe, from anywhere
    Role & Growth.md        Expectations of you + what you're improving
+   Notas y Observaciones.md   Running log of process/org observations, not tied to one person or client
+   <Manager Name>.md       Your own upward 1-1 log - same "new entries at top" convention as reports
    Weekly Reviews/
 05-Templates/
-06-Reference/              ADRs, standards, runbooks, links out
+06-Reference/              ADRs, standards, runbooks, links out (Apps Team & Pods, Feedback Framework, etc.)
 ```
 
 Clients get folders because they accumulate meetings. People get single files because a 1-1 is a *continuous conversation*, not a series of events — you want to scroll one person's history in one place. New log entries go at the **top** of the file, so the current state is always the first thing you see; scroll down for their whole arc, which is what makes promotion cases and hard conversations writable.
