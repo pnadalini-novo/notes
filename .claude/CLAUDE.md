@@ -8,6 +8,10 @@ Obsidian vault for Pietro's engineering-manager work, built 2026-09-02 from an e
 
 Claude Code's actual leverage here is reaching into systems no Obsidian plugin touches: Jira (via Atlassian MCP), Granola (meeting transcripts), Swarmia (engineer progress). When asked to update this vault, prefer writing directly into the correct file/frontmatter/inline-field format (`[src:: ]`, `[client:: ]`, `[jira:: ]`, `[who:: ]`, `📅 due date`) rather than improvising new structures.
 
+## People notes
+
+One file per person, forever - new log entries go at the top so current state is always first, full history readable by scrolling down. This convention lives here and in `README-CONVENTIONS.md`, not as a repeated blockquote in every person file (removed 2026-09-03, one wording moved to source of truth instead of duplicated 9 times).
+
 ## Clients
 
 Only **BNP** (Banco Nacional de Panamá) is seeded (`02-Clients/BNP/`), deliberately - the spec's two-week rule says run the capture habit on one client before rolling out to the rest. Remaining clients, not yet created: Banorte, Coopcentral, BP (Banco Pichincha).

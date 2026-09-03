@@ -34,7 +34,7 @@ If you find yourself copying ticket titles into Obsidian, stop. Link the ticket 
 06-Reference/              ADRs, standards, runbooks, links out
 ```
 
-Clients get folders because they accumulate meetings. People get single files because a 1-1 is a *continuous conversation*, not a series of events — you want to scroll one person's history in one place.
+Clients get folders because they accumulate meetings. People get single files because a 1-1 is a *continuous conversation*, not a series of events — you want to scroll one person's history in one place. New log entries go at the **top** of the file, so the current state is always the first thing you see; scroll down for their whole arc, which is what makes promotion cases and hard conversations writable.
 
 ---
 

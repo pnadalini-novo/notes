@@ -4,7 +4,7 @@ role:
 started: 
 cadence: bi-weekly
 ---
-# <% tp.file.title %>
+# Juan Pablo Romero
 
 ## Standing context
 
@@ -26,7 +26,7 @@ SORT due ASC
 
 ## Log
 
-### <% tp.date.now("YYYY-MM-DD") %>
+### 2026-09-03
 
 **Recording:** (link)
 
@@ -43,7 +43,7 @@ SORT due ASC
 - 
 
 **My commitments:**
-- [ ]  📅  [src:: team] [who:: <% tp.file.title %>]
+- [ ]  📅  [src:: team] [who:: Juan Pablo Romero]
 
 **For next time:**
 - 
