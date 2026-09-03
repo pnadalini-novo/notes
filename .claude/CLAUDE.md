@@ -8,13 +8,17 @@ Obsidian vault for Pietro's engineering-manager work, built 2026-09-02 from an e
 
 Claude Code's actual leverage here is reaching into systems no Obsidian plugin touches: Jira (via Atlassian MCP), Granola (meeting transcripts), Swarmia (engineer progress). When asked to update this vault, prefer writing directly into the correct file/frontmatter/inline-field format (`[src:: ]`, `[client:: ]`, `[jira:: ]`, `[who:: ]`, `📅 due date`) rather than improvising new structures.
 
+## Template frontmatter convention
+
+`05-Templates/1-1.md` deliberately has `type:` left blank (not `type: person`) - Pietro cleared it because Dataview's `type = "person"` queries were incorrectly matching the template file itself. Don't "fix" this back. Every real instantiated person note still needs `type: person` set explicitly (see Hector Corredor.md added 2026-09-03) - only the template omits it. Check whether Client Overview.md / other templates need the same treatment before assuming they're fine.
+
 ## People notes
 
 One file per person, forever - new log entries go at the top so current state is always first, full history readable by scrolling down. This convention lives here and in `README-CONVENTIONS.md`, not as a repeated blockquote in every person file (removed 2026-09-03, one wording moved to source of truth instead of duplicated 9 times).
 
 ## Clients
 
-Only **BNP** (Banco Nacional de Panamá) is seeded (`02-Clients/BNP/`), deliberately - the spec's two-week rule says run the capture habit on one client before rolling out to the rest. Remaining clients, not yet created: Banorte, Coopcentral, BP (Banco Pichincha).
+All four are seeded under `02-Clients/`: BNP (Banco Nacional de Panamá), Banorte, Coopcentral, BP (Banco Pichincha) - slugs `bnp`, `banorte`, `coopcentral`, `bp`. Pietro asked for all four on 2026-09-03, overriding the spec's two-week single-client rollout suggestion.
 
 ## Obsidian plugin config
 

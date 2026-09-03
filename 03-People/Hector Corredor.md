@@ -1,10 +1,10 @@
 ---
-type:
-role:
-started:
+type: person
+role: 
+started: 
 cadence: bi-weekly
 ---
-# <% tp.file.title %>
+# Hector Corredor
 
 ## Standing context
 
@@ -26,7 +26,7 @@ SORT due ASC
 
 ## Log
 
-### <% tp.date.now("YYYY-MM-DD") %>
+### 2026-09-03
 
 **Recording:** (link)
 
@@ -43,7 +43,7 @@ SORT due ASC
 - 
 
 **My commitments:**
-- [ ]  📅  [src:: team] [who:: <% tp.file.title %>]
+- [ ]  📅  [src:: team] [who:: Hector Corredor]
 
 **For next time:**
 - 

@@ -7,3 +7,5 @@
 | **Tasks** | Due dates, recurring tasks, snoozing. Optional but recommended. |
 | **Periodic Notes** | One hotkey to today's daily note. |
 | **Calendar** | Visual jump between daily notes. |
+| **Omnisearch** | Fast full-vault search, config matched to the novopayment vault. |
+| **Paste Image Rename** | Auto-renames pasted images/attachments on drop, same as novopayment vault. |

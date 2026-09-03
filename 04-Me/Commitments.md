@@ -4,7 +4,6 @@
 
 ## From my boss
 
-The list that decides whether you keep your job. Check it every single day.
 
 ```dataview
 TASK
